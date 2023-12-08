@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file alias="openFile">res/images/openFile</file>
+        <file alias="hidePass">res/images/hidePass</file>
+        <file alias="showPass">res/images/showPass</file>
+    </qresource>
+</RCC>
