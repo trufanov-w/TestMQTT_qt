@@ -102,7 +102,7 @@ Window {
       TextField {
         id: topicInput
         placeholderText: "topic"
-        text: "piklema/test"
+        text: "topic/test"
 
       }
 
